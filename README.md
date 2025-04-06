@@ -2,7 +2,7 @@ Hello there,
 
 This is a simple example of how to setup RAG (Retrieval-Augmented Generation) with FastAPI.
 
-**Setup vitual environment**
+**Setup virtual environment**
 
 If you currently dont have a .venv or base file please use this command to create one.
 ***This will create a file directory called base with everything***
