@@ -30,7 +30,7 @@ base/Scripts/activate
 **Setup Ollama LLM**
 
 For this code to work you'll have to have a LLM downloaded from Ollama.
-If you want to use the one that is used in side code example, then type the command:
+If you want to use the one that is used in this code example, then type in the command:
 ```
 ollama run gemma2:9b
 ```
